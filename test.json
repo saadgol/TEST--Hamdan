@@ -1,50 +1,51 @@
 [
-  {
-    "intent": "Emtech-Origin",
-    "examples": [
-      "What does emtech stand for?",
-      "Does emtech stand for something?",
-      "What is the meaning of emtech"
-    ],
-    "metadata": [
-      "Emtech stands for Emerging technology"
-    ]
-  },
-  {
-    "intent": "Emtech-Function",
-    "examples": [
-      "What does Emtech do?",
-      "What are Emtech in charge of?",
-      "What kind of projects does emtech have?",
-      "What do they do in Emtech?"
-    ],
-    "metadata": [
-      "The emerging technology team are a team of software & hardware developers striving to create new use cases (active and on display) that are constantly refreshed."
-    ]
-  },
-  {
-    "intent": "Emtech-Location",
-    "examples": [
-      "Where is Emtech based?",
-      "Emtech lab location",
-      "Where is Emtech's lab?",
-      "Guide me to the Emtech lab"
-    ],
-    "metadata": [
-      "Emtech is based in the Dubai Emaar Sqaure Office on the 6th floor."
-    ]
-  },
-  {
-    "intent": "Emtech-Staff",
-    "examples": [
-      "Who works at Emtech?",
-      "Can you tell me about Emtech's team members?",
-      "Who are the people behind Emtech?",
-      "Can you provide information about the Emtech staff?",
-      "Tell me about the individuals working at Emtech."
-    ],
-    "metadata": [
-      "The people who make the team are Sami Al-Shatri, Rahaf Abutarbush, Hisham Abdelqader, Nadia Mansour, Ali Mahouk"
-    ]
-  }
+    {
+        "intent": "Emtech-Origin",
+        "examples": [
+            "What does emtech stand for?",
+            "Does emtech stand for something?",
+            "What is the meaning of emtech"
+        ],
+        "metadata": [
+            "Emtech stands for Emerging technology"
+        ]
+    },
+    {
+        "intent": "Emtech-Function",
+        "examples": [
+            "What does Emtech do?",
+            "What are Emtech in charge of?",
+            "What kind of projects does emtech have?",
+            "What do they do in Emtech?"
+        ],
+        "metadata": [
+            "The emerging technology team are a team of software & hardware developers striving to create new use cases (active and on display) that are constantly refreshed."
+        ]
+    },
+    {
+        "intent": "Emtech-Location",
+        "examples": [
+            "Where is Emtech based?",
+            "Emtech lab location",
+            "Where is Emtech's lab?",
+            "Guide me to the Emtech lab"
+        ],
+        "metadata": [
+            "Emtech is based in the Dubai Emaar Sqaure Office on the 6th floor."
+        ]
+    },
+    {
+        "intent": "Emtech-Staff",
+        "examples": [
+            "Who works at Emtech?",
+            "Can you tell me about Emtech's team members?",
+            "Who are the people behind Emtech?",
+            "Can you provide information about the Emtech staff?",
+            "Tell me about the individuals working at Emtech."
+        ],
+        "metadata": [
+            "The people who make the team are Sami Al-Shatri, Rahaf Abutarbush, Hisham Abdelqader, Nadia Mansour, Ali Mahouk"
+        ]
+    },
+    "saad"
 ]

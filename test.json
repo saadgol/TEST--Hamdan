@@ -46,5 +46,17 @@
         "metadata": [
             "The tempreature of the lab at 10:22:33 AM is 22.46 C"
         ]
+    },
+    {
+        "intent": "Tempreature",
+        "examples": [
+            "What's the current temperature in the Emtech lab?",
+            "Could you tell me the temperature reading at the Emtech lab right now?",
+            "What's the indoor temperature at the Emtech lab?",
+            "Do you know what the temperature is like inside the Emtech lab?"
+        ],
+        "metadata": [
+            ""
+        ]
     }
 ]

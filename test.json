@@ -58,5 +58,17 @@
         "metadata": [
             "The tempreature of the lab at 14:44:15 is value': 22.19 C"
         ]
+    },
+    {
+        "intent": "Humidity",
+        "examples": [
+            "What's the current humidity level in the Emtech lab?",
+            "Could you provide me with the humidity reading at the Emtech lab currently?",
+            "What's the indoor humidity like at the Emtech lab?",
+            "Do you have information about the humidity conditions inside the Emtech lab?"
+        ],
+        "metadata": [
+            ""
+        ]
     }
 ]

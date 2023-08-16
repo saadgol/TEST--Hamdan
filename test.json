@@ -78,6 +78,9 @@
             "Could you share the current air quality status of the Emtech lab?",
             "How's the indoor air quality at the Emtech lab currently?",
             "Do you have any data on the air quality conditions inside the Emtech lab?"
+        ],
+        "metadata": [
+            ""
         ]
     }
 ]

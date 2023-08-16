@@ -70,5 +70,14 @@
         "metadata": [
             "The Humidity level of the lab at 14:56:43 is value': 59.61%"
         ]
+    },
+    {
+        "intent": "Air-Quality",
+        "examples": [
+            "What's the air quality index at the Emtech lab right now?",
+            "Could you share the current air quality status of the Emtech lab?",
+            "How's the indoor air quality at the Emtech lab currently?",
+            "Do you have any data on the air quality conditions inside the Emtech lab?"
+        ]
     }
 ]
